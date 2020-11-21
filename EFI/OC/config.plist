@@ -434,7 +434,7 @@
 		<key>Emulate</key>
 		<dict>
 			<key>DummyPowerManagement</key>
-			<false/>
+			<true/>
 			<key>Cpuid1Data</key>
 			<data></data>
 			<key>Cpuid1Mask</key>
@@ -521,27 +521,28 @@
 				<key>Arch</key>
 				<string>x86_64</string>
 				<key>Base</key>
-				<string>_i386_switch_lbrs</string>
+				<string>_isSingleUser</string>
 				<key>Comment</key>
 				<string>algrey - Disable _i386_switch_lbrs</string>
 				<key>Count</key>
-				<integer>0</integer>
+				<integer>1</integer>
 				<key>Enabled</key>
 				<true/>
 				<key>Find</key>
 				<data></data>
 				<key>Identifier</key>
-				<string>kernel</string>
+				<string>com.apple.iokit.IOHIDFamily
+</string>
 				<key>Limit</key>
 				<integer>0</integer>
 				<key>Mask</key>
 				<data></data>
 				<key>MaxKernel</key>
-				<string>20.99.99</string>
+				<string></string>
 				<key>MinKernel</key>
-				<string>20.1.0</string>
+				<string>20.0.0</string>
 				<key>Replace</key>
-				<data>ww==</data>
+				<data>uAEAAADD</data>
 				<key>ReplaceMask</key>
 				<data></data>
 				<key>Skip</key>
@@ -2012,7 +2013,7 @@
 			<key>IgnoreInvalidFlexRatio</key>
 			<false/>
 			<key>ReleaseUsbOwnership</key>
-			<false/>
+			<true/>
 			<key>RequestBootVarRouting</key>
 			<true/>
 			<key>TscSyncTimeout</key>
