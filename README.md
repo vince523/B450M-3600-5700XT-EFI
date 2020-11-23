@@ -10,3 +10,4 @@
 
 ## 遇到的坑
 - [安装过程中30后鼠标卡住](https://dortania.github.io/OpenCore-Install-Guide/troubleshooting/extended/userspace-issues.html#frozen-in-the-macos-installer-after-30-seconds)
+- [iCloud 服务“无法联系服务器”](https://dortania.github.io/OpenCore-Post-Install/universal/iservices.html#fixing-rom)
