@@ -35,12 +35,15 @@
 [![Dsk1kF.png](https://s3.ax1x.com/2020/11/27/Dsk1kF.png)](https://imgchr.com/i/Dsk1kF)
 
 
-**5. Save**
-**6. 替换EFI**
-**7. Reboot**
-**8. 检查是否生效**
+**5. Save**  
+
+**6. 替换EFI**  
+
+**7. Reboot**  
+
+**8. 检查是否生效**  
 [![DsABD0.md.jpg](https://s3.ax1x.com/2020/11/27/DsABD0.md.jpg)](https://imgchr.com/i/DsABD0)
 
 
-**9. icloud 正常工作**
+**9. icloud 正常工作**  
 [![DsA65F.jpg](https://s3.ax1x.com/2020/11/27/DsA65F.jpg)](https://imgchr.com/i/DsA65F)
