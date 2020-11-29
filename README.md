@@ -12,7 +12,7 @@
 - [安装过程中30后鼠标卡住](https://dortania.github.io/OpenCore-Install-Guide/troubleshooting/extended/userspace-issues.html#frozen-in-the-macos-installer-after-30-seconds)
 - [iCloud 服务“无法联系服务器”](https://dortania.github.io/OpenCore-Post-Install/universal/iservices.html#fixing-rom)
 
-## 【无法联系服务器】解决办法:Fixing En0
+## 登录 iCloud 遇到【无法联系服务器】的解决办法:Fixing En0
 **1. 一般情况我们的 `En0` 是这样的，`build-in/内建` 下方没有打勾，说明不是内建（这里以我的博通无线网卡为例)**
 [![DsiAHS.jpg](https://s3.ax1x.com/2020/11/27/DsiAHS.jpg)](https://imgchr.com/i/DsiAHS)
 
