@@ -4,6 +4,7 @@
 - CPU: AMD R5 3600
 - 主板: 微星B450M MORTAR MAX
 - GPU: 讯景RX5700 XT (非公版)
+- 网卡: Fenvi 黑苹果免驱 BCM94360CD 芯片（不是免驱的需要在config.list 加载网卡驱动）
 
 ## 系统
 - Big Sur 11.0
